@@ -12,10 +12,6 @@
 
 <br/>
 
-<div>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jcamacho4&show_icons=true&theme=cobalt&locale=en" alt="jcamacho4" /></p>
-
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcamacho4&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="jcamacho4" /></p>
-<div/>
 
 
