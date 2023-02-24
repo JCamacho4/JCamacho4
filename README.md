@@ -13,7 +13,7 @@
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jcamacho4&show_icons=true&theme=transparent&locale=en" alt="jcamacho4" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamacho4&hide_progress=true&theme=transparent&hide=css" alt="jcamacho4" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamacho4&hide_progress=true&theme=transparent&hide=css" alt="jcamacho4" />
 
 
 
