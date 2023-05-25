@@ -1,6 +1,4 @@
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/100539990/221289643-45441853-462e-4621-9ed8-46d06cbe4d18.gif" width=40px /> , I'm Jorge</h1>
-<h3 align="center">I'm a Software Engineering student in Málaga, Spain. I'm currently in my third year</h3>
-<h5 align="center">I'm a passionate software developer who enjoys creating new and innovative applications. With a creative mindset and a hunger for knowledge, I'm always striving to learn and improve my skills.</h5>
 
 <br/>
 
