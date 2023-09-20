@@ -13,8 +13,6 @@
 <br/> <br/>
   
 <div>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jcamacho4&count_private=true&show_icons=true&theme=onedark&locale=en" alt="jcamacho4" /> 
-  <br/> <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jcamacho4&count_private=true&hide_progress=true&theme=onedark&hide=css" alt="jcamacho4" />
 <div/>
 
